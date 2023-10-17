@@ -2,6 +2,8 @@
 The test task was performed using: Nuxt 3 + SSR + Axios + Pinia.
 Figma mockup for this task [here](https://www.figma.com/file/v3CCxMyLUZtRPdESGCUzHR/Nuxt-Front-End-Test-Task?type=design&node-id=20-20&mode=design&t=nt4fcTK09MkLvzYd-0).
 
+Recommended screen extension is 1440 and above
+
 ## Objective 🎯
 The objective of this task is to create a simple web application using Nuxt 3 that accomplishes the following:
 
