@@ -1,6 +1,6 @@
 # Nuxt 3 Minimal Starter
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+The test task was performed using: Nuxt 3 + SSR + Axios + Pinia.
+Figma mockup for this task here https://www.figma.com/file/v3CCxMyLUZtRPdESGCUzHR/Nuxt-Front-End-Test-Task?type=design&node-id=20-20&mode=design&t=nt4fcTK09MkLvzYd-0.
 
 ## Setup
 
