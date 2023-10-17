@@ -1,0 +1,12 @@
+@mixin display-position($justifyContent, $alightItem) {
+    display: flex;
+    justify-content: $justifyContent;
+    align-items: $alightItem;
+}
+
+@mixin font-styles($fontWeight, $fontSize, $lineHeight, $letterSpacing:0.03em) {
+    font-weight: $fontWeight;
+    font-size: #{$fontSize}px;
+    line-height: calc( #{$lineHeight} / #{$fontSize} );
+    letter-spacing: $letterSpacing;
+}
