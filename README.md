@@ -2,6 +2,15 @@
 The test task was performed using: Nuxt 3 + SSR + Axios + Pinia.
 Figma mockup for this task [here](https://www.figma.com/file/v3CCxMyLUZtRPdESGCUzHR/Nuxt-Front-End-Test-Task?type=design&node-id=20-20&mode=design&t=nt4fcTK09MkLvzYd-0).
 
+Just write:
+```
+npm install
+```
+And after that:
+```
+npm run dev
+```
+
 Recommended screen extension is 1440 and above
 
 ## Objective 🎯
