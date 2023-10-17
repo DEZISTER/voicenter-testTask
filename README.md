@@ -10,10 +10,6 @@ The objective of this task is to create a simple web application using Nuxt 3 th
 - Create a dynamic side navigation that lists the titles of text blocks.
 - Implement smooth scrolling when users click on a navigation item to reach its respective text block.
 
-1. First list item
-   - First nested list item
-     - Second nested list item
-
 ## Requirements ✅
 - Use Nuxt 3 for building the application.
 - You are free to use any JavaScript or CSS libraries that you find suitable for this task.
